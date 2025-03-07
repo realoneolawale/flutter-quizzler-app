@@ -14,7 +14,7 @@ I covered the following:
 After these learning these, I completed Quizzler - a quiz app.
 
 Source code:
-https://github.com/realoneolawale/flutter-xylophone-app
+https://github.com/realoneolawale/flutter-quizzler-app
 
 NB:
 Next update will be on Monday as I will take the weekend to rest and reflect on the concepts I've learned all week.
